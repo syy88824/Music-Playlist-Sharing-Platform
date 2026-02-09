@@ -1,1 +1,1 @@
-# myDBProject
+# Music Playlist Sharing Platform
